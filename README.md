@@ -2,7 +2,7 @@
 
 This are some Test cases for Simple Shell project made by Holberton Students of Cohort 11 Barranquilla/Colombia.
 
-## configurations :computer:
+## Configurations :computer:
 
-## run :hammer:
-Usage `./check_simple_shell.bash davixcky` , `davixcky` is the person who have the `simple_shell` on github.
+## Run :hammer:
+Usage `./check_simple_shell.bash $USER_REPO` , `$USER_REPO` is the person who have the `simple_shell` on github.
