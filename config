@@ -5,8 +5,8 @@ TESTDIR="."
 R=$RANDOM
 OUTPUTFILE="checker_output_$R"
 ERROROUTPUTFILE="checker_error_output_$R"
-SHELL="./src/hsh"
-#SHELL="/bin/sh"
+#Replace and put you shell executable file name
+SHELL="./hsh"
 SLEEP=`which sleep`
 SLEEPSECONDS=1
 LTRACE=`which ltrace`
